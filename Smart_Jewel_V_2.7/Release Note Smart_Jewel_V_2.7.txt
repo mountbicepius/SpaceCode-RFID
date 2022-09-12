@@ -1,0 +1,8 @@
+V2.7
+New Feature added
+- Login Screen
+- Download Stock Based on Login
+- Show username (Logged In user)
+- Added Logout Button
+- Write Tag
+- Read Tag

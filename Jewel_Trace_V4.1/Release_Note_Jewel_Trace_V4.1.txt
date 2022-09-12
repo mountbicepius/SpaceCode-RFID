@@ -1,0 +1,4 @@
+V 4.1
+- Default IP Address : https://spacecode.co.in
+- Setting > Bluetooth Device Name "HQ_UHF_READER" now removed - Now it will show all kind of devices in Devices List. User should select only UHF READER for performing respective functionalities.
+- Setting > Bluetooth Device Name List Scrolling Issue Resolved.

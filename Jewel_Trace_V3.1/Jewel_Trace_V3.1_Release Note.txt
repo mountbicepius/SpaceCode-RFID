@@ -1,0 +1,11 @@
+V3.1
+
+- Feature Added : Share Order Excel Via Whatsapp
+- Login & Download Stock Flow Changed : Now user will be redirected to Home Screen after successful login & stock will be reset. If user wants to download the stock , then he'll need to press "Download Stock" Button given on upper-right side of STOCK UPLOAD screen.
+- Reader Timeout Set to = 30 Minutes
+- Dialog for Collecting Company & Person Details at the time of Order, is more bigger now.
+
+Following Issues have been resolved
+
+- StockTally > Found/Not Found/Extra List -> Open List -> Optimized
+- QuickView > Order & back & forth navigation & data in-consistency issues - Resolved
